@@ -42,7 +42,7 @@ Built around a flagship consumer-intent surface, expanded into a connected syste
 | **[GrabOn](https://www.grabon.in)** | Flagship since 2013. India's most-trusted destination for verified deals. IN · US · UAE · CAN|
 | **[GrabCash](https://grabcash.in)** | Performance affiliate. Everyday users earn when their network shops. |
 | **[GrabShare](https://grabshare.in)** | Creator commerce. Verified voices curate the products they use. |
-| **[RankDrive](https://rankdrive.com)** | Search-revenue intelligence. Keywords mapped to revenue. |
+| **[RankDrive]** | Search-revenue intelligence. Keywords mapped to revenue. |
 | **[Alternatives.co](https://alternatives.co)** | B2B software discovery. Where software leaders find software. |
 | **Next · 2026** | New consumer surfaces in founder-led build. Quiet on purpose. |
 
